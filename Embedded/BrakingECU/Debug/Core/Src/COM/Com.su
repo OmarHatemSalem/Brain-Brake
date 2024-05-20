@@ -1,0 +1,12 @@
+../Core/Src/COM/Com.c:24:6:Com_Init	48	static
+../Core/Src/COM/Com.c:132:6:Com_DeInit	16	static
+../Core/Src/COM/Com.c:146:16:Com_GetStatus	4	static
+../Core/Src/COM/Com.c:152:7:Com_SendSignal	48	static
+../Core/Src/COM/Com.c:249:6:Com_RxIndication	24	static
+../Core/Src/COM/Com.c:292:6:Com_TxConfirmation	32	static
+../Core/Src/COM/Com.c:336:6:Com_WriteData	40	static
+../Core/Src/COM/Com.c:396:9:Com_BufferLocked	24	static
+../Core/Src/COM/Com.c:409:6:Com_RxSignalProcess	24	static
+../Core/Src/COM/Com.c:451:6:Com_WriteToPDU	112	static
+../Core/Src/COM/Com.c:522:21:Com_GetByteOffset	24	static
+../Core/Src/COM/Com.c:529:7:Com_ReceiveSignal	24	static

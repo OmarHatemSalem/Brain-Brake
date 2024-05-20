@@ -1,0 +1,12 @@
+../Core/Src/COM/Com.c:24:6:Com_Init	22
+../Core/Src/COM/Com.c:132:6:Com_DeInit	3
+../Core/Src/COM/Com.c:146:16:Com_GetStatus	1
+../Core/Src/COM/Com.c:152:7:Com_SendSignal	15
+../Core/Src/COM/Com.c:249:6:Com_RxIndication	6
+../Core/Src/COM/Com.c:292:6:Com_TxConfirmation	8
+../Core/Src/COM/Com.c:336:6:Com_WriteData	7
+../Core/Src/COM/Com.c:396:9:Com_BufferLocked	2
+../Core/Src/COM/Com.c:409:6:Com_RxSignalProcess	8
+../Core/Src/COM/Com.c:451:6:Com_WriteToPDU	19
+../Core/Src/COM/Com.c:522:21:Com_GetByteOffset	1
+../Core/Src/COM/Com.c:529:7:Com_ReceiveSignal	3

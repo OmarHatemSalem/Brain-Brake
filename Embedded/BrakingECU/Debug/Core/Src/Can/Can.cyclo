@@ -1,0 +1,3 @@
+../Core/Src/Can/Can.c:32:16:Can_Write	2
+../Core/Src/Can/Can.c:47:6:Can_Init	1
+../Core/Src/Can/Can.c:81:6:Can_MainFunction_Read	1

@@ -1,0 +1,2 @@
+../Core/Src/Can/Can.c:31:16:Can_Write	48	static
+../Core/Src/Can/Can.c:46:6:Can_Init	16	static
